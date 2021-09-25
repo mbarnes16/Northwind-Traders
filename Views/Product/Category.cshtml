@@ -1,0 +1,11 @@
+@using Northwind_Traders.Models
+@model IEnumerable<Category>
+<div class="bg-primary m-1 p-1 text-white"><h4>Categories</h4></div>
+<ul class="list-group">
+    @foreach (Category c in Model)
+    {
+        <li class="list-group-item">
+            <a asp-action="Index" asp-route-id="@c.CategoryId"> @c.CategoryName - @c.Description </a>
+        </li>
+    }
+</ul>

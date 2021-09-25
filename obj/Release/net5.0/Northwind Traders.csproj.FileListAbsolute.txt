@@ -1,0 +1,70 @@
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\appsettings.Development.json
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\appsettings.json
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.exe
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.deps.json
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.runtimeconfig.json
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.runtimeconfig.dev.json
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\ref\Northwind Traders.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.Views.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Northwind Traders.Views.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Humanizer.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.Identity.Client.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\System.Runtime.Caching.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.csprojAssemblyReference.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.AssemblyInfoInputs.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.AssemblyInfo.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.csproj.CoreCompileInputs.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.MvcApplicationPartsAssemblyInfo.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.RazorAssemblyInfo.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.RazorAssemblyInfo.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\staticwebassets\Northwind Traders.StaticWebAssets.Manifest.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\staticwebassets\Northwind Traders.StaticWebAssets.xml
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\scopedcss\bundle\Northwind Traders.styles.css
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.TagHelpers.input.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.TagHelpers.output.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.RazorCoreGenerate.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Razor\Views\Home\index.cshtml.g.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Razor\Views\Product\Category.cshtml.g.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.RazorTargetAssemblyInfo.cache
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.RazorTargetAssemblyInfo.cs
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.Views.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.csproj.CopyComplete
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\ref\Northwind Traders.dll
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.pdb
+E:\Fall 2021\.NET Web Development\Northwind Traders\obj\Release\net5.0\Northwind Traders.genruntimeconfig.cache
